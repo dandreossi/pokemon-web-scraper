@@ -108,3 +108,9 @@ venv.bak/
 
 # Project-specific
 pokemon.json
+
+# Test HTML Page
+test.html
+
+# Poetry Files
+poetry.lock
